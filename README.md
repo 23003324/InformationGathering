@@ -84,6 +84,12 @@ Host: example.com
 ## httprint
 ### output
 
+![Alt text](<img/Screenshot at 2025-03-17 15-23-55.png>)
+
+
+![Alt text](<img/Screenshot at 2025-03-17 15-24-05.png>)
+
+
 
 # Tracing the Location
 TCP Traceroute:
